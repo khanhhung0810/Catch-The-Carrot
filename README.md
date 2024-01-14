@@ -1,1 +1,1 @@
-#Dự án Game lập trình bằng Android Studio bằng ngôn ngữ Java
+Dự án Game lập trình bằng Android Studio bằng ngôn ngữ Java
